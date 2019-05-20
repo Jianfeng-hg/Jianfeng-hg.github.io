@@ -1,0 +1,16 @@
+@InProceedings{10.1007/978-3-319-47106-8_7,
+author="Nair, Vivek
+and Menzies, Tim
+and Chen, Jianfeng",
+editor="Sarro, Federica
+and Deb, Kalyanmoy",
+title="An (Accidental) Exploration of Alternatives to Evolutionary Algorithms for SBSE",
+booktitle="Search Based Software Engineering",
+year="2016",
+publisher="Springer International Publishing",
+address="Cham",
+pages="96--111",
+abstract="SBSE researchers often use an evolutionary algorithm to solve various software engineering problems. This paper explores an alternate approach of sampling. This approach is called SWAY (Samplying WAY) and finds the (near) optimal solutions to the problem by (i) creating a larger initial population and (ii) intelligently sampling the solution space to find the best subspace. Unlike evolutionary algorithms, SWAY does not use mutation or cross-over or multi-generational reasoning to find interesting subspaces but relies on the underlying dimensions of the solution space. Experiments with Software Engineering (SE) models shows that SWAY's performance improvement is competitive with standard MOEAs while, terminating over an order of magnitude faster.",
+isbn="978-3-319-47106-8"
+}
+
